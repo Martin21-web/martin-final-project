@@ -108,11 +108,11 @@ h1{
 .current-weather{
     color: #000;
     display: flex;
-    background: linear-gradient(180deg, hsl(210, 96%, 11%), hsl(40, 96%, 44%));
+    background: linear-gradient(180deg, hsl(210, 91%, 21%), hsl(40, 96%, 49%));
     border-radius: 5px;
     padding: 20px 70px 20px 20px;
     justify-content: space-between;
-    opacity: 0.9;
+    opacity: 0.5;
 }
 
 .current-weather h2{
